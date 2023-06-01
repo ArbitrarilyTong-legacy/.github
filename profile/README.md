@@ -1,3 +1,8 @@
+# NOTICE
+For some reasons,we give up PixelExperience and based on LineageOS now
+
+**Please visit our new organization @ArbitrarilyTong and @ArbitrarilyTong-Devices**
+
 <div align="center">
 <img src="https://github.com/ArbitrarilyTong/.github/raw/main/ReadmeBlock-v2.png" width=800px>
 </div>
